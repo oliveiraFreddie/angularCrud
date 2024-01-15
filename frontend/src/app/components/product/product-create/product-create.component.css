@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin: 10px;
+  margin-top: 20px;
+  margin-right: 5px;
+  max-width: 90px;
+}
+
+mat-card-title {
+  margin: 10px;
+}

@@ -1,0 +1,23 @@
+<mat-sidenav-container class="container">
+  <mat-sidenav
+    class="sidenav"
+    mode="side"
+    opened
+    fixedInViewport="true"
+    fixedTopGap="64"
+  >
+    <mat-nav-list class="nav-list">
+      <a mat-list-item routerLink="/">
+        <i class="material-icons text-white v-middle">home</i>
+        <span class="text-white">Início</span>
+      </a>
+      <a mat-list-item routerLink="/products">
+        <i class="material-icons text-white v-middle">storefront</i>
+        <span class="text-white">Produtos</span>
+      </a>
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content class="content">
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>
