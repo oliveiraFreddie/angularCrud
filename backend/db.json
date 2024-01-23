@@ -13,12 +13,17 @@
     {
       "id": 3,
       "name": "Geladeira",
-      "price": 4000.89
+      "price": "2500.89"
     },
     {
-      "name": "Vaca",
-      "price": "100000.00",
+      "name": "Vaca Nova",
+      "price": "259.00",
       "id": 4
+    },
+    {
+      "name": "Piriquito",
+      "price": "2.00",
+      "id": 5
     }
   ]
 }
