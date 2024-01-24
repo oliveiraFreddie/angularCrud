@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "1.98"
     },
     {
       "id": 2,
@@ -16,14 +16,9 @@
       "price": "2500.89"
     },
     {
-      "name": "Vaca Nova",
+      "name": "Tablet Lenovo",
       "price": "259.00",
       "id": 4
-    },
-    {
-      "name": "Piriquito",
-      "price": "2.00",
-      "id": 5
     }
   ]
 }
